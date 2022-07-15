@@ -1,7 +1,7 @@
 const FETCH_OPTIONS = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': 'dbf8306743msh52dd7cd9a02b6bcp16c5a7jsndb6059cdc28b',
+        'X-RapidAPI-Key': 'key',
         'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com'
     }
 };
